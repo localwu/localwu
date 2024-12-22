@@ -1,21 +1,20 @@
 <p align="left" style="display:inline;">
   <a href="https://localwu.top/?from=githubReadme"><img height="36px" src="./brand/localwu-wordmark.png" /></a>
-
 </p>
 
 ## Hello, My name is Local Wu.
 
-I'm driven by passion for unique experiences and the thrill of fulfillment.
+I'm driven by a passion for unique experiences and the thrill of fulfillment.
 
 Passion Drives. 热爱使燃。
 
-More On [https://LocalWu.top](https://localwu.top/?from=githubReadme) .
+More On [https://localwu.top](https://localwu.top/?from=githubReadme).
 
 ## <img height="14px" src="https://github.com/user-attachments/assets/a16c3b61-6f41-4ba2-98d1-c117c7c07fb5" />
 
 <p align="right" style="display:inline;">
 <sub>
-  📧 Contact via email <a href="mailto:Contact@LocalWu.top"><span>Contact@LocalWu.top</span></a>
+  📧 Contact via email <a href="mailto:contact@localwu.top"><span>contact@localwu.top</span></a>
 </sub>
 </p>
 <p align="right" style="display:inline;">
