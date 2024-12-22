@@ -8,13 +8,13 @@
 
 Passion Drives. 热爱使燃。
 
-前往 [https://LocalWu.top](https://localwu.top/?from=githubReadme) 查看更多。
+前往 [https://localwu.top](https://localwu.top/?from=githubReadme) 查看更多。
 
 ## <img height="14px" src="https://github.com/user-attachments/assets/a16c3b61-6f41-4ba2-98d1-c117c7c07fb5" />
 
 <p align="right" style="display:inline;">
 <sub>
-  📧 邮件联系 <a href="mailto:Contact@LocalWu.top"><span>Contact@LocalWu.top</span></a>
+  📧 邮件联系 <a href="mailto:contact@localwu.top"><span>contact@localwu.top</span></a>
 </sub>
 </p>
 <p align="right" style="display:inline;">
