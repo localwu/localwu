@@ -8,11 +8,11 @@ I am a passionate developer with a strong focus on user experience and design.
 
 If you are interested in my work, please feel free to contact me.
 
-Contact me via email: [Contact@LocalWu.top](mailto:Contact@LocalWu.top) or [LocalWu@QQ.com](mailto:LocalWu@QQ.com)
+Contact me via email: [contact@localwu.top](mailto:contact@localwu.top) or [localwu@QQ.com](mailto:localwu@QQ.com)
 
 Passion Drives. 热爱使燃。
 
-More On [https://LocalWu.top](https://localwu.top/?from=githubReadme) .
+More On [https://localwu.top](https://localwu.top/?from=githubReadme).
 
 ## <img height="14px" src="https://github.com/user-attachments/assets/a16c3b61-6f41-4ba2-98d1-c117c7c07fb5" />
 
