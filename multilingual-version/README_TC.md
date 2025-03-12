@@ -1,5 +1,5 @@
 <p align="left" style="display:inline;">
-  <a href="https://localwu.top/?from=githubReadme"><img height="36px" src="../brand/localwu-wordmark.png" /></a>
+  <a href="https://localwu.top/?from=githubReadme"><img height="36px" src="../branding/localwu-wordmark.png" /></a>
 </p>
 
 ## 你好，我是 Local Wu。
